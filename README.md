@@ -1,4 +1,4 @@
 # sarah
 First Repository
 
-This Repo is just for Tests and learnig to handle github
+This Repo is just for learning and handle github
